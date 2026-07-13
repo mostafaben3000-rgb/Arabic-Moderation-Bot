@@ -1,0 +1,6 @@
+app = "arabic-moderation-bot"
+
+[build]
+
+[processes]
+app = "python main.py"
